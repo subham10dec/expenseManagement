@@ -1,0 +1,42 @@
+{
+  "expenses": [
+    {
+      "expense_type": "cash",
+      "expense_amount": "50000",
+      "description": "Shopping cart",
+      "expense_date": "2023-11-06",
+      "id": "2"
+    },
+    {
+      "id": "5a2a",
+      "description": "sss",
+      "expense_amount": "2000",
+      "expense_date": "2024-02-06",
+      "expense_type": "cash"
+    },
+    {
+      "id": "1bc8",
+      "description": "testnew",
+      "expense_amount": "2000",
+      "expense_date": "2024-02-09",
+      "expense_type": "card"
+    }
+  ],
+  "profile": {
+    "item": {
+      "first_name": "mike",
+      "last_name": "tyson",
+      "email": "mike@example.com"
+    },
+    "first_name": "mikenew",
+    "last_name": "tyson",
+    "email": "mike@example.com"
+  },
+  "users": [
+    {
+      "id": "d47c",
+      "email": "subhamroy101291@gmail.com",
+      "password": "abc123"
+    }
+  ]
+}
